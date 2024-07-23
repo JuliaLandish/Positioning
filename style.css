@@ -2,8 +2,7 @@
     width: 600px;
     height: 400px;
     position: relative;
-
-    background: url("img\bg.png");
+    background: no-repeat url("background.jpg");
 }
 
 .comp-item {
@@ -48,6 +47,6 @@
     
 .comp-item.superman { 
     z-index: 6;
-    bottom: 195px;
-    right: 160px
+    bottom: 0px;
+    right: 35px
 }
